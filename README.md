@@ -1,5 +1,5 @@
 # **masKit4j**
-*A Java library for masking sensitive data in logs.*
+*An open-source Java library for masking sensitive data in logs.*
 
 ---
 
